@@ -1,5 +1,5 @@
 # unicode-county-flag
-Array to connect unicode flags to **ISO 3166-1 alpha-2** code
+Function to connect unicode flags to **ISO 3166-1 alpha-2** code
 
 Usage:
 ```html
@@ -8,3 +8,4 @@ Usage:
 consloe.info(UnicodeIsoAlpha2CountyFlag("UN")); //🇺🇳
 </script>
 ```
+or just copy and paste :)
