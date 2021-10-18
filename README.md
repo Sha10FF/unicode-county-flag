@@ -9,3 +9,6 @@ consloe.info(UnicodeIsoAlpha2CountyFlag("UN")); //🇺🇳
 </script>
 ```
 or just copy and paste :)
+
+Demo:
+https://jsfiddle.net/n0bocrt3/
