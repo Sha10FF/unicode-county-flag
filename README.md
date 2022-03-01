@@ -5,7 +5,7 @@ Usage:
 ```html
 <script src="https://cdn.jsdelivr.net/gh/Sha10FF/unicode-county-flag@master/unicode-iso-alpha2-county-flag.js"></script>
 <script>
-consloe.info(UnicodeIsoAlpha2CountyFlag("UN")); //🇺🇳
+consloe.info(UnicodeIsoAlpha2CountyFlag("UA")); //🇺🇦
 </script>
 ```
 or just copy and paste :)
